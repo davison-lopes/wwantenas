@@ -1,0 +1,78 @@
+@charset "UTF-8"
+
+@import url('https://fonts.googleapis.com/css?family=Syncopate&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans|Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade&display=swap');
+
+body{   font-family: 'Syncopate', sans-serif; text-align: justify;  font-family: 'Titillium Web', sans-serif;}
+img{   max-width: 100%}
+h2{  padding-left: 1%;   font-family: 'Bubblegum Sans', cursive;  text-align: justify; text-shadow: 1px 1px 1px red;}
+h3{  padding-left: 1%;   font-family: 'Bubblegum Sans', cursive;  text-align: justify; text-shadow: 1px 1px 1px red;}
+
+
+h5 {    font-family: 'Bubblegum Sans', cursive;  text-shadow: 1px 1px 1px black;  ;  
+padding-left: 1%;}
+h4 {    font-family: 'Bubblegum Sans', cursive;  text-shadow: 1px 1px 1px black;  ;  
+padding-left: 1%;}
+h1{  padding-left: 1%;   font-family: 'Bubblegum Sans', cursive;  text-align: justify; text-shadow: 1px 1px 1px red;}
+p {    margin-top: 2%;   text-align: justify;  font-family: 'Titillium Web', sans-serif;}
+
+.h2{ font-size: 1.7rem; text-shadow: 1px 1px 1px black; }
+.p{ font-size: 1.3rem; }
+/* divisao da interface*/
+div#interface {  width: 100%; }
+/*nav menu*/
+.autom{ height: 20%;	   }
+
+.mmo li{ background-color: transparent; border: none;   padding: -5%; }
+.mmo ul{  position: relative; right:  30%; top:  35%; }
+
+#nav-mobile{background-image: url("../textura2.png");}
+nav li a:hover{ color: rgba(0,0,0,0.5); }
+nav li a {font-weight: bolder;}
+/*customizacao do herder*/
+
+
+
+
+#titulo{  text-shadow: pink; text-align: justify;  float: left;}
+#links{   position: absolute; top: 10%; right: 4%; background-color: transparent; }
+
+#pad {padding-bottom: 2.3%;}
+#padi {padding-bottom: 1%;}
+.baixo{  border-bottom:  1px solid black; }
+
+
+/* customizacao dos figures*/
+
+
+.incline{ display: inline-block; }
+/* customizacao do footer*/
+
+.borda2:hover{ background-color:  #ffffff;  }
+#subir{ margin-top: -15%; }
+.pad2{ margin-right: 2%; padding-top: 3.4%; }
+
+
+.sobre-nos p{ font-size: 2rem;	
+}
+
+.sobre-nos h3{ font-size: 3rem; font-family: 'Bubblegum Sans', cursive;  
+
+}
+.cc{ background-color: rgba(255,255,255,0.5); }
+
+
+
+.caro{ height: 30%; width: 40%; }
+
+.traspa{ background: #F5FBEF; border: 1px solid #D3D3D3; margin-top: 5%;  }
+.traspa:hover{ background-color:#606060 ; }
+.meio{  margin-left: 30%;  border-radius: 2px 2px 2px 2px;}
+.pfq{background: #F5FBEF; border: 1px solid #D3D3D3;}
+.h6{ font-size: 1.5rem; }
+
+.autom{ height: 15%; 	   }
+.navbar-fixed {background-color: #1a237e;}
+ .inclini{ display: block; }
+ .inclini{ direction: inherit; }

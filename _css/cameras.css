@@ -1,0 +1,70 @@
+@charset "UTF-8"
+@import url('https://fonts.googleapis.com/css?family=Syncopate&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans|Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade&display=swap');
+
+body{   font-family: 'Syncopate', sans-serif;  text-decoration-color: black; background-image: url("../textura2.png");}
+img{   max-width: 100%}
+
+
+h5 {    font-family: 'Bubblegum Sans', cursive;  text-shadow: 1px 1px 1px black;  ;  
+padding-left: 1%;}
+h2 {  font-family: 'Bubblegum Sans', cursive;    text-shadow: 1px 1px 1px red; 
+padding-left: 1%;}
+h3 {  font-family: 'Bubblegum Sans', cursive;    text-shadow: 1px 1px 1px black;  
+padding-left: 1%;}
+h4 {  font-family: 'Bubblegum Sans', cursive;    text-shadow: 1px 1px 1px black;  
+padding-left: 1%;}
+h1{  padding-left: 1%; text-shadow: 3px 3px 3px red;  font-family: 'Bubblegum Sans', cursive;  text-align: justify; color: #000;}
+p {    margin-top: 2%;   text-align: justify;  font-family: 'Titillium Web', sans-serif;}
+ 
+
+
+
+/* divisao da interface*/
+.p {font-size: 2rem;  }
+.p2 {font-size: 1.5rem; text-shadow: 1px 1px 1px black;  }
+
+/*nav menu*/
+nav li a:hover{ color: rgba(0,0,0,0.5); }
+nav li a {font-weight: bolder;}
+
+
+.mmo li{  border:none;   padding: -5%; }
+.mmo ul{  position: relative; right:  30%; top:  35%; }
+.autom{ height: 15%; 	   }
+#nav-mobile{background-image: url("../textura2.png");}
+
+/*customizacao do herder*/
+
+.titulos { font-size: 4rem; }
+
+
+
+/* customizacao dos figures*/
+
+
+
+
+#subir{ margin-top: -15%; }
+.pad2{ margin-right: 2%; padding-top: 3.4%; }
+
+
+/* customizacao do footer*/
+
+
+
+
+
+
+.margin{ margin-left: 10%;}
+.margin2{ margin-right:  10%;}
+.margin3{ position: relative;left: 25%;}
+.m { margin-right: 5%; }
+.mm { margin-left:  5%; }
+.center{ position: relative; left:40%; }
+
+
+.none{ display: none; }
+
+
